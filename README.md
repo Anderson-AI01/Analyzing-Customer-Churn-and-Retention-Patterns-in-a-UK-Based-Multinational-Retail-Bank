@@ -14,3 +14,7 @@ Veritas Bank is facing increased customer churn from its users. Retaining custom
 
 The absence of real-time churn monitoring and customer segmentation has made it difficult for the business to respond
 proactively.
+
+
+
+# This project is in progress!!! 
