@@ -55,12 +55,12 @@ Instead of switching systems, I found a cross-platform solution.
 ---
 ### Running SQL Server on Mac for Data Analysis (M1)
 
-This documents how I overcame the challenge of running **SQL Server** on a **Mac (M1)** while working on a this **data analysis project**.  
-Since SQL Server isn’t natively supported on macOS, I used **Docker**, **Azure SQL Edge**, and **Azure Data Studio** to set up a full working environment — and then connected it to **Power BI** (on Windows) for visualization.
+This documents how I overcame the challenge of running **SQL Server** on a **Mac (M1)** while working on a this **project**.  
+Since SQL Server isn’t natively supported on macOS, I used **Docker**, **Azure SQL Edge**, and **Azure Data Studio** to set up a full working environment and then connected it to **Power BI** (on Windows) for visualization.
 
 ---
 
-## 🔧 The Solution — My Setup
+## My Setup
 
 | Tool | Purpose |
 |------|----------|
