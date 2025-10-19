@@ -42,21 +42,21 @@ proactively.
   <b>Azure Data Studio</b>
 </p>
 
-# 📊 Running SQL Server on Mac for Data Analysis (M1 | M2 | M3)
 
-This project documents how I overcame the challenge of running **SQL Server** on a **Mac (M1)** while working on a **data analysis project**.  
-Since SQL Server isn’t natively supported on macOS, I used **Docker**, **Azure SQL Edge**, and **Azure Data Studio** to set up a full working environment — and then connected it to **Power BI** (on Windows) for visualization.
+## Challenge Faced!
 
----
-
-## 💡 The Challenge
-
-While working on my data analysis project, I needed to:
+While working on this project, I needed to:
 - Store and query large datasets efficiently using **SQL Server**
 - Use **Power BI** for visualizations  
 - But my main device was a **MacBook (M1)** — which doesn’t support SQL Server installation natively.
 
 Instead of switching systems, I found a cross-platform solution.
+
+---
+### Running SQL Server on Mac for Data Analysis (M1)
+
+This documents how I overcame the challenge of running **SQL Server** on a **Mac (M1)** while working on a this **data analysis project**.  
+Since SQL Server isn’t natively supported on macOS, I used **Docker**, **Azure SQL Edge**, and **Azure Data Studio** to set up a full working environment — and then connected it to **Power BI** (on Windows) for visualization.
 
 ---
 
