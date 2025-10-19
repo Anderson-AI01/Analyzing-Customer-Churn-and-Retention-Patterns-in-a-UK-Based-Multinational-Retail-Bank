@@ -48,7 +48,7 @@ proactively.
 While working on this project, I needed to:
 - Store and query large datasets efficiently using **SQL Server**
 - Use **Power BI** for visualizations  
-- But my main device was a **MacBook (M1)** — which doesn’t support SQL Server installation natively.
+- But my main device was a **MacBook (M1)**  which doesn’t support SQL Server installation natively.
 
 Instead of switching systems, I found a cross-platform solution.
 
