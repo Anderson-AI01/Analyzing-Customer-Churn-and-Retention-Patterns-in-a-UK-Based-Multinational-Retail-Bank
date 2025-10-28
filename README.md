@@ -1,4 +1,4 @@
-# Analyzing-Customer-Churn-and-Retention-Patterns-in-a-UK-Based-Multinational-Retail-Bank
+# Analysing-Customer-Churn-and-Retention-Patterns-in-a-UK-Based-Multinational-Retail-Bank
 
 # Overview 
 
