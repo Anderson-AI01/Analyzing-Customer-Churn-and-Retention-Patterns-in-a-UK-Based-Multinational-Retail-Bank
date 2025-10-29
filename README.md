@@ -92,7 +92,7 @@ churned.
 decision-making
 
 
-## Conclution 
+## Conclusion 
 
 This project analysed customer churn and retention for Veritas Bank using MS SQL and Power BI.The insights highlight that low engagement, poor credit scores, and inactive customers drive churn, while loyal, high-value customers strengthen overall retention and revenue.
 <img width="1342" height="60" alt="image" src="https://github.com/user-attachments/assets/b5b121fe-f39c-484f-9ea3-6ab0443a1478" />
