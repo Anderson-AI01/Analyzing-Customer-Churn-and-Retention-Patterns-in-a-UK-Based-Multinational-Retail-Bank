@@ -78,20 +78,23 @@ Since SQL Server isn’t natively supported on macOS, I used **Docker**, **Azure
 • Identify common characteristics amongst customers who have
 churned.
 
-3. Regional Comparison:
+2. Regional Comparison:
    
 • Compare account behaviour across the UK, Germany, and France.
 
-5. Customer Segmentation:
+3. Customer Segmentation:
    
 • Segment customers based on risk profiles and account usage.
 
-7. Interactive Dashboards:
+4. Interactive Dashboards:
 
 • Visualise key churn metrics via interactive dashboards for better
 decision-making
 
 
 ## Conclution 
+
+This project analysed customer churn and retention for Veritas Bank using MS SQL and Power BI.The insights highlight that low engagement, poor credit scores, and inactive customers drive churn, while loyal, high-value customers strengthen overall retention and revenue.
+<img width="1342" height="60" alt="image" src="https://github.com/user-attachments/assets/b5b121fe-f39c-484f-9ea3-6ab0443a1478" />
 
 
