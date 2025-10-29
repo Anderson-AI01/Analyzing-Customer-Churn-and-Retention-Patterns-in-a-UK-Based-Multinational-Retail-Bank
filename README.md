@@ -92,6 +92,33 @@ churned.
 decision-making
 
 
+## Data Analytics Project Scope
+
+01
+Phase 1: Database Design and Data
+Importation (SQL Server)
+1. Database Setup
+2. Data Importation
+3. Basic Data Quality Checks
+
+02
+Phase 2: Data Transformation & Feature
+Engineering
+1. Create Derived Columns
+2. Churn Analysis Views
+
+03
+Phase 3: Power BI Modelling & Dashboard
+Development
+1. Connect Power BI to SQL Server
+2. Create DAX Measures in Power BI
+Dashboard Development (Page 1: Customer Demographics
+& Segment Analysis, Page 2: Churn Analysis)
+
+04
+Phase 4: PowerPoint
+1. Summarise insights & recommendations in a slide deck
+
 ## Conclusion 
 
 This project analysed customer churn and retention for Veritas Bank using MS SQL and Power BI.The insights highlight that low engagement, poor credit scores, and inactive customers drive churn, while loyal, high-value customers strengthen overall retention and revenue.
