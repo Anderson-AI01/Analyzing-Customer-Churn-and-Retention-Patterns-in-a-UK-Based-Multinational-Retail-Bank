@@ -113,11 +113,11 @@ Development
 1. Connect Power BI to SQL Server
 2. Create DAX Measures in Power BI
 Dashboard Development (Page 1: Customer Demographics
-& Segment Analysis, Page 2: Churn Analysis)
+& Segment Analysis, Page 2: Churn Analysis, Page 3: Retention Analysis)
 
 04
 Phase 4: PowerPoint
-1. Summarise insights & recommendations in a slide deck
+1. Summarised insights & recommendations in a slide deck
 
 ## Conclusion 
 
