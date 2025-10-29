@@ -92,7 +92,7 @@ churned.
 decision-making
 
 
-## Data Analytics Project Scope
+## Project Scope
 
 01
 Phase 1: Database Design and Data
