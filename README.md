@@ -73,20 +73,25 @@ Since SQL Server isn’t natively supported on macOS, I used **Docker**, **Azure
 
  ## Project Objectives
 
-1. Identify Common Characteristics
+1. Identify Common Characteristics :
+   
 • Identify common characteristics amongst customers who have
 churned.
 
-2. Regional Comparison
+3. Regional Comparison:
+   
 • Compare account behaviour across the UK, Germany, and France.
 
-3. Customer Segmentation
+5. Customer Segmentation:
+   
 • Segment customers based on risk profiles and account usage.
 
-4. Interactive Dashboards
+7. Interactive Dashboards:
+
 • Visualise key churn metrics via interactive dashboards for better
 decision-making
 
 
+## Conclution 
 
-# This project is in progress!!! 
+
